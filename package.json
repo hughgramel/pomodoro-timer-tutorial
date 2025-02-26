@@ -11,5 +11,8 @@
   "devDependencies": {
     "concurrently": "^9.1.0",
     "webpack": "^5.98.0"
+  },
+  "dependencies": {
+    "react-slider": "^2.0.6"
   }
 }
